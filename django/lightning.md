@@ -76,4 +76,4 @@
 
 <!SLIDE nobullets>
 
-# \o/ Django! #
+![Gony](goat-pony-gony.jpg)
